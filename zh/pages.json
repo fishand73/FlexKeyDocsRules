@@ -1,0 +1,26 @@
+[
+  {
+    "title": "常用动作",
+    "url": "common"
+  },
+  {
+    "title": "全局控制",
+    "url": "global_control"
+  },
+  {
+    "title": "系统设置",
+    "url": "settings"
+  },
+  {
+    "title": "应用动作",
+    "url": "applications"
+  },
+  {
+    "title": "媒体动作",
+    "url": "media"
+  },
+  {
+    "title": "趣味动作",
+    "url": "fun"
+  }
+]

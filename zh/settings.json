@@ -1,0 +1,86 @@
+{
+  "total": 0,
+  "data": [
+    {
+      "name": "切换勿扰模式",
+      "description": "切换多种勿扰模式",
+      "body": "settings:do_not_disturb()",
+      "version_code": "1",
+      "version_name": "1.0",
+      "author": "imxqd",
+      "update_time": 1527414422000
+    },
+    {
+      "name": "开启/关闭自动旋转",
+      "description": "开启/关闭自动旋转",
+      "body": "settings:auto_rotation()",
+      "version_code": "1",
+      "version_name": "1.0",
+      "author": "imxqd",
+      "update_time": 1527414422000
+    },
+    {
+      "name": "开启自动旋转",
+      "description": "开启自动旋转",
+      "body": "settings:auto_rotation(1)",
+      "version_code": "1",
+      "version_name": "1.0",
+      "author": "imxqd",
+      "update_time": 1527414422000
+    },
+    {
+      "name": "关闭自动旋转",
+      "description": "关闭自动旋转",
+      "body": "settings:auto_rotation(0)",
+      "version_code": "1",
+      "version_name": "1.0",
+      "author": "imxqd",
+      "update_time": 1527414422000
+    },
+    {
+      "name": "旋转至270度",
+      "description": "旋转至270度",
+      "body": "settings:rotation(270)",
+      "version_code": "1",
+      "version_name": "1.0",
+      "author": "imxqd",
+      "update_time": 1527414422000
+    },
+    {
+      "name": "旋转至0度",
+      "description": "旋转至0度",
+      "body": "settings:rotation(0)",
+      "version_code": "1",
+      "version_name": "1.0",
+      "author": "imxqd",
+      "update_time": 1527414422000
+    },
+    {
+      "name": "旋转至90度",
+      "description": "旋转至90度",
+      "body": "settings:rotation(90)",
+      "version_code": "1",
+      "version_name": "1.0",
+      "author": "imxqd",
+      "update_time": 1527414422000
+    },
+    {
+      "name": "旋转90度",
+      "description": "旋转90度",
+      "body": "settings:rotate(90)",
+      "version_code": "1",
+      "version_name": "1.0",
+      "author": "imxqd",
+      "update_time": 1527414422000
+    },
+    {
+      "name": "旋转180度",
+      "description": "旋转180度",
+      "body": "settings:rotate(180)",
+      "version_code": "1",
+      "version_name": "1.0",
+      "author": "imxqd",
+      "update_time": 1527414422000
+    }
+  ]
+}

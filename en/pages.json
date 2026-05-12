@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Common actions",
+    "url": "common"
+  },
+  {
+    "title": "Global",
+    "url": "global_control"
+  },
+  {
+    "title": "System settings",
+    "url": "settings"
+  },
+  {
+    "title": "App actions",
+    "url": "applications"
+  },
+  {
+    "title": "Media actions",
+    "url": "media"
+  },
+  {
+    "title": "Fun actions",
+    "url": "fun"
+  }
+]
